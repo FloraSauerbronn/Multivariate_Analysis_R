@@ -1,13 +1,40 @@
-# Multivariate_Analysis_R
-I took a subject in my master's degree called multivariate analysis with R. We developed several routines using statistical analysis with different datasets for different samples. In the end, we created our own analysis project, using daily data on wave height, chlorophyll, dissolved oxygen from a buoy from the SinCosta project.
+# Multivariate Analysis with R
 
+Welcome to the **Multivariate Analysis with R** project! This repository showcases the routines and analyses developed during my master's degree course on multivariate analysis. Throughout the course, we employed various statistical techniques on diverse datasets, culminating in a comprehensive analysis project utilizing daily data on wave height, chlorophyll levels, and dissolved oxygen from a buoy associated with the SinCosta project.
 
-Here you will find several scripts with their respective CSV data sets, great for training and practice.
+## Project Overview
 
-The files contained in the name SINCOSTA were the ones I downloaded from the Brazilian buoy program website. And which I used in my final project.
+In this repository, you will find several scripts along with their corresponding CSV datasets, perfect for training and practice in multivariate analysis.
 
-The file that has "_process" was treated by me via Python, removing some collection errors from the equipment used, such as outliars or NaNs.
+### Data Sources
 
-My final project is called "Flora_Sauerbronn.
+The datasets contained in the `SINCOSTA` folder were downloaded from the Brazilian Buoy Program website and were utilized in my final project. 
 
-Enjoy :)
+### Data Processing
+
+The files with "_process" in their names were cleaned and processed using Python. During this process, I addressed several collection errors from the equipment, including outliers and NaN values, to ensure data integrity for analysis.
+
+### Final Project
+
+My final project is titled **Flora Sauerbronn**, and it encapsulates the findings and methodologies applied throughout the course.
+
+## Getting Started
+
+To use the scripts and datasets in this repository:
+
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone <repository_url>
+   ```
+
+2. Navigate to the project directory:
+
+bash
+```
+cd Multivariate_Analysis_R
+```
+3. Explore the scripts and datasets to practice and enhance your skills in multivariate analysis.
+
+Enjoy!
+
+Feel free to explore, experiment, and utilize the resources provided. Happy analyzing!
